@@ -12,3 +12,8 @@ There are 4 main functionalities implemented in the program and described in the
 2. [Optimization of a policy using RL](https://github.com/captain-project/notebooks/blob/main/Policy_optimization.ipynb)
 3. [Application of a trained policy on simulated datasets](https://github.com/captain-project/notebooks/blob/main/Policy_implementation.ipynb) 
 4. [Application of a trained policy on empirical data](https://github.com/captain-project/notebooks/blob/main/Analysis_empirical_data.ipynb)
+
+## Data and code availability
+The CAPTAIN method is described in [this open access paper](https://www.nature.com/articles/s41893-022-00851-6).
+All the data and scripts used in the paper are available in this [open access Zenodo repository](https://zenodo.org/record/5643665#.Yz0p8i8RpB0)
+The most recent version of CAPTAIN is available [here](https://github.com/captain-project/captain-project) and [here is the developemnt version](https://github.com/captain-project/captain-project/tree/dev).
